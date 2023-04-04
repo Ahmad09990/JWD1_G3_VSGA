@@ -37,7 +37,7 @@ https://localhost/tugasproject/letakkan disini
 - Form siap digunakan
 
 ## Preview Project
-![Preview Project](https://github.com/Ahmad09990/VSGA-G3-JWD1/blob/main/img/preview.jpg "Title")
+![Preview Project](https://github.com/Ahmad09990/JWD1_G3_VSGA/blob/main/img/preview.jpg "Title")
 
 
 ## Struktur Project
